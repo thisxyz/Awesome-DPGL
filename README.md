@@ -11,6 +11,8 @@
 
 ---
 
+
+
 **Differential Privacy × Graph Machine Learning**
 
 An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, and resources in **Differential Privacy Graph Learning (DPGL)** — covering Local DP, Global DP, private GNNs, structure perturbation, node feature privacy, private graph embeddings, attacks & defenses, and theoretical foundations.
@@ -40,6 +42,26 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 # 🔍 Introduction
 
 **Differential Privacy Graph Learning (DPGL)** aims to protect sensitive information in graph data during training, inference, and publication.
+
+![Local](https://img.shields.io/badge/Setting-Local-blue)
+![Federated](https://img.shields.io/badge/Setting-Federated-blueviolet)
+![NodeCls](https://img.shields.io/badge/Task-NodeCls-green)
+![PM](https://img.shields.io/badge/Mechanism-PM-orange)
+![Robust](https://img.shields.io/badge/Security-Robust-red)
+
+## 🏷️ Tags
+
+| Category | Tag | Meaning |
+|---------|------|---------|
+| Setting | Local | Local Differential Privacy |
+| Setting | Federated | Federated Graph Learning |
+| Task | NodeCls | Node Classification |
+| Task | LinkPred | Link Prediction |
+| Mechanism | PM | Piecewise Mechanism |
+| Security | Robust | Attack-resilient |
+| Security | Poisoning | Poisoning-resistant |
+| Model | GNN | Graph Neural Networks |
+
 
 This repository highlights:
 
