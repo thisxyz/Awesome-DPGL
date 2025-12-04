@@ -57,12 +57,14 @@ The list is continuously updated. **Pull Requests are welcome!**
 
 # 📘 Surveys
 
-- **Graph Privacy Survey** – A comprehensive overview of privacy in graph ML  
-- **Differential Privacy: Theory & Applications** – Classical DP overview  
-- **Local Differential Privacy in ML** – Mechanisms & applications  
-- **Privacy in Graph Neural Networks** – Specific to GNN privacy risks  
+### 🗓️ 2021  
+- [2021] [CCS] Locally Private Graph Neural Networks [[Paper]](https://dl.acm.org/doi/10.1145/3460120.3484565)
 
-(欢迎补充)
+### 🗓️ 2022  
+- [2021] [CCS] Locally Private Graph Neural Networks [[Paper]](https://dl.acm.org/doi/10.1145/3460120.3484565)
+- 
+### 🗓️ 2021  
+- [2021] [CCS] Locally Private Graph Neural Networks [[Paper]](https://dl.acm.org/doi/10.1145/3460120.3484565)
 
 ---
 
