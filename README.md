@@ -54,6 +54,15 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 | [Differentially private decoupled graph convolutions for multigranular topology protection](https://arxiv.org/abs/2307.06422) | NeurIPS | 2023 |
 | [Differentially Private Graph Neural Networks for Medical Population Graphs and The Impact of The Graph Structure](https://ieeexplore.ieee.org/abstract/document/10635840) | ISBI | 2024 |
 | [Preserving node-level privacy in graph neural networks](https://arxiv.org/abs/2311.06888) | SP | 2024 |
+| [Poincaré differential privacy for hierarchy-aware graph embedding](https://arxiv.org/abs/2312.12183) | AAAI | 2024 |
+| [ProGAP: Progressive graph neural networks with differential privacy guarantees](https://arxiv.org/abs/2304.08928) | WSDM | 2024 |
+| [DPAR: Decoupled graph neural networks with node-level differential privacy](https://arxiv.org/abs/2210.04442) | WWW | 2024 |
+| [Differentially private graph neural networks for link prediction](https://ieeexplore.ieee.org/document/10597978/) | ICDE | 2024 |
+| [Towards differential privacy in sequential recommendation: A noisy graph neural network approach](https://arxiv.org/abs/2309.11515) | TKDD | 2024 |
+| [Edge Private Graph Neural Networks with Singular Value Perturbation](https://arxiv.org/abs/2403.10995) | PETS | 2024 |
+| [Leveraging Graph Clustering for Differentially Private Graph Neural Networks](https://ieeexplore.ieee.org/document/10825799/) | BigData | 2024 |
+| [NAGG: Noised graph node feature aggregations for preserving privacy](https://www.computer.org/csdl/proceedings-article/trustcom/2024/062000b389/25DI0aiYmQg) | TrustCom | 2024 |
+| [Differentially private graph neural networks for graph classification and its adaptive optimization](https://www.sciencedirect.com/science/article/pii/S0957417424026654) | ESWA | 2025 |
 
 
 
