@@ -68,7 +68,10 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 | Title                                                                 | Venue                  | Year |
 |-----------------------------------------------------------------------|------------------------|------|
 | [Linkteller: Recovering private edges from graph neural networks](https://arxiv.org/abs/2108.06504) | SP | 2022 |
-| [Training Differentially Private Graph Neural Networks with Random Walk Sampling](https://arxiv.org/abs/2301.00738) | TSRML (NeurIPS Workshop) | 2022 |
+| [Towards private learning on decentralized graphs with local differential privacy](https://ieeexplore.ieee.org/abstract/document/9855440/) | TIFS | 2022 |
+| [Blink: link local differential privacy in graph neural networks via Bayesian estimation](https://dl.acm.org/doi/abs/10.1145/3576915.3623165) | CCS | 2023 |
+| [Locally differentially private graph learning on decentralized social graph](https://www.sciencedirect.com/science/article/pii/S0950705124011225) | KBS | 2024 |
+| [Degree-preserving randomized response for graph neural networks under local differential privacy](https://arxiv.org/abs/2202.10209) | TDP | 2024 |
 
 # 📘 Surveys
 
