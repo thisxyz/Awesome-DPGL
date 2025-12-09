@@ -63,6 +63,22 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 | [Leveraging Graph Clustering for Differentially Private Graph Neural Networks](https://ieeexplore.ieee.org/document/10825799/) | BigData | 2024 |
 | [NAGG: Noised graph node feature aggregations for preserving privacy](https://www.computer.org/csdl/proceedings-article/trustcom/2024/062000b389/25DI0aiYmQg) | TrustCom | 2024 |
 | [Differentially private graph neural networks for graph classification and its adaptive optimization](https://www.sciencedirect.com/science/article/pii/S0957417424026654) | ESWA | 2025 |
+| [Achieving Personalized Privacy-Preserving Graph Neural Network via Topology Awareness](https://dl.acm.org/doi/10.1145/3696410.3714555) | WWW | 2025 |
+| [PrivIM: Differentially Private Graph Neural Networks for Influence Maximization](https://ieeexplore.ieee.org/document/11112938/) | ICDE | 2025 |
+| [Structure-Preference Enabled Graph Embedding Generation under Differential Privacy](https://arxiv.org/abs/2501.03451) | ICDE | 2025 |
+| [GCON: Differentially private graph convolutional network via objective perturbation](https://arxiv.org/abs/2407.05034) |  ICDE | 2025 |
+| [AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model](https://arxiv.org/abs/2503.21426) |  ICDE | 2025 |
+| [A semi-supervised privacy-preserving graph classification framework enhanced by graph contrastive learning](https://www.sciencedirect.com/science/article/pii/S0957417425037649) | ESWA | 2025 |
+| [Safeguarding Graph Neural Networks against Topology Inference Attacks](https://arxiv.org/abs/2509.05429) | CCS | 2025 |
+| [GRASP: Differentially private graph reconstruction defense with structured perturbation](https://dl.acm.org/doi/10.1145/3711896.3736992) | KDD | 2025 |
+| [Hiding in the Network: Attribute-Oriented Differential Privacy for Graph Neural Networks](https://ieeexplore.ieee.org/document/11104233/) | TIFS | 2025 |
+| [PrivAGM: Secure Construction of Diferentially Private Directed Atributed Graph Models on Decentralized Social Graphs](https://dl.acm.org/doi/10.14778/3749646.3749722) | VLDB | 2025 |
+| [Differentially Private Adaptive Noise for Graph Neural Network in Online Social Networks](https://www.sciencedirect.com/science/article/pii/S1389128625007236) | Computer Networks | 2025 |
+| [Public data-enhanced multi-stage differentially private graph neural networks](https://www.sciencedirect.com/science/article/pii/S2214212625000237) | JISA | 2025 |
+| [HDAGAP: Hierarchical Deep Adaptive Graph Neural Networks Based on Aggregation Perturbation Differential Privacy](https://ieeexplore.ieee.org/document/11033647/) | CSCWD | 2025 |
+| [Adversarial Signed Graph Learning with Differential Privacy](https://www.arxiv.org/abs/2512.00307) | KDD | 2026 |
+| [Convergent Privacy Framework with Contractive GNN Layers for Multi-hop Aggregations](https://arxiv.org/abs/2506.22727) | NDSS | 2026 |
+
 
 
 
