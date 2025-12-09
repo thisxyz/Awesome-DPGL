@@ -21,24 +21,6 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 
 ---
 
-# 📑 Table of Contents
-- [Introduction](#introduction)
-- [Surveys](#surveys)
-- [Fundamentals of Differential Privacy](#fundamentals-of-differential-privacy)
-- [Local Differential Privacy for Graphs](#local-differential-privacy-for-graphs)
-- [Global Differential Privacy for Graphs](#global-differential-privacy-for-graphs)
-- [DP Graph Neural Networks](#dp-graph-neural-networks)
-- [DP for Node Classification](#dp-for-node-classification)
-- [DP Graph Embedding](#dp-graph-embedding)
-- [Privacy Attacks](#privacy-attacks)
-- [Defense Mechanisms](#defense-mechanisms)
-- [Benchmarks & Datasets](#benchmarks--datasets)
-- [Code Implementations](#code-implementations)
-- [Contributing](#contributing)
-- [Citation](#citation)
-
----
-
 
 
 
@@ -79,13 +61,14 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 | [Adversarial Signed Graph Learning with Differential Privacy](https://www.arxiv.org/abs/2512.00307) | KDD | 2026 |
 | [Convergent Privacy Framework with Contractive GNN Layers for Multi-hop Aggregations](https://arxiv.org/abs/2506.22727) | NDSS | 2026 |
 
-
-
-
-
 ---
 
-# 🧩 Local Differential Privacy for Graphs
+# 🧩 Local Setting
+
+| Title                                                                 | Venue                  | Year |
+|-----------------------------------------------------------------------|------------------------|------|
+| [Linkteller: Recovering private edges from graph neural networks](https://arxiv.org/abs/2108.06504) | SP | 2022 |
+| [Training Differentially Private Graph Neural Networks with Random Walk Sampling](https://arxiv.org/abs/2301.00738) | TSRML (NeurIPS Workshop) | 2022 |
 
 # 📘 Surveys
 
@@ -110,9 +93,5 @@ Public graph datasets widely used in DPGL experiments:
 - Amazon / Yelp graph datasets  
 - Synthetic DP graph generators  
 
----
 
-# 💻 Code Implementations
-
-Open-source implementations of DP graph learning algorithms:
 
