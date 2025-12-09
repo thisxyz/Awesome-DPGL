@@ -31,6 +31,7 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 | [Linkteller: Recovering private edges from graph neural networks](https://arxiv.org/abs/2108.06504) | SP | 2022 |
 | [Training Differentially Private Graph Neural Networks with Random Walk Sampling](https://arxiv.org/abs/2301.00738) | TSRML (NeurIPS Workshop) | 2022 |
 | [Node-level differentially private graph neural networks](https://arxiv.org/abs/2111.15521) |  PAIR2Struct (ICLR Workshop) | 2022 |
+| [Differentially Private Graph Neural Networks for Whole-Graph Classification](https://ieeexplore.ieee.org/abstract/document/9980390/) | TPAMI | 2022 |
 | [Releasing graph neural networks with differential privacy guarantees](https://arxiv.org/abs/2109.08907) | TMLR | 2023 |
 | [GAP: Differentially private graph neural networks with aggregation perturbation](https://arxiv.org/abs/2203.00949) | USENIX Security | 2023 |
 | [Differentially private decoupled graph convolutions for multigranular topology protection](https://arxiv.org/abs/2307.06422) | NeurIPS | 2023 |
@@ -69,9 +70,23 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 |-----------------------------------------------------------------------|------------------------|------|
 | [Linkteller: Recovering private edges from graph neural networks](https://arxiv.org/abs/2108.06504) | SP | 2022 |
 | [Towards private learning on decentralized graphs with local differential privacy](https://ieeexplore.ieee.org/abstract/document/9855440/) | TIFS | 2022 |
+| [Privacy-enhanced graph neural network for decentralized local graphs](https://ieeexplore.ieee.org/abstract/document/10305592/) | TIFS | 2023 |
 | [Blink: link local differential privacy in graph neural networks via Bayesian estimation](https://dl.acm.org/doi/abs/10.1145/3576915.3623165) | CCS | 2023 |
+| [Individual fairness for local private graph neural network](https://www.sciencedirect.com/science/article/pii/S095070512300240X) | KBS | 2023 |
+| [Privacy-preserving decentralized inference with graph neural networks in wireless networks](https://ieeexplore.ieee.org/abstract/document/10140175/) | TWC | 2023 |
 | [Locally differentially private graph learning on decentralized social graph](https://www.sciencedirect.com/science/article/pii/S0950705124011225) | KBS | 2024 |
 | [Degree-preserving randomized response for graph neural networks under local differential privacy](https://arxiv.org/abs/2202.10209) | TDP | 2024 |
+| [Local differential privacy in graph neural networks: a reconstruction approach](https://epubs.siam.org/doi/abs/10.1137/1.9781611978032.1) | SIAM | 2024 |
+| [LinkGuard: Link Locally Privacy-Preserving Graph Neural Networks with Integrated Denoising and Private Learning](https://dl.acm.org/doi/abs/10.1145/3589335.3651533) | WWW (Companion) | 2024 |
+| [Locally and Structurally Private Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3624485) | DTRAP | 2024 |
+| [Achieving Adaptive Privacy-Preserving Graph Neural Networks Training in Cloud Environment](https://ieeexplore.ieee.org/document/10761771/) | ICICN | 2024 |
+| [GraphPrivatizer: Improved Structural Differential Privacy for Graph Neural Networks](https://openreview.net/forum?id=lcPtUhoGYc) | JMLR | 2024 |
+| [Leveraging Homophily Under Local Differential Privacy for Effective Graph Neural Networks](https://link.springer.com/chapter/10.1007/978-3-032-06096-9_22) | ECML-PKDD | 2025 |
+| [Going Deeper into Locally Differentially Private Graph Neural Networks](https://openreview.net/forum?id=2aKHuXdr7Q) | ICML | 2025 |
+| [Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols](https://arxiv.org/abs/2506.09803) | KDD | 2026 |
+
+
+
 
 # 📘 Surveys
 
