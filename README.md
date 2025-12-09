@@ -39,149 +39,39 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 
 ---
 
-# 🔍 Introduction
-
-**Differential Privacy Graph Learning (DPGL)** aims to protect sensitive information in graph data during training, inference, and publication.
-
-![Local](https://img.shields.io/badge/Setting-Local-blue)
-![Federated](https://img.shields.io/badge/Setting-Federated-blueviolet)
-![NodeCls](https://img.shields.io/badge/Task-NodeCls-green)
-![PM](https://img.shields.io/badge/Mechanism-PM-orange)
-![Robust](https://img.shields.io/badge/Security-Robust-red)
-
-## 🏷️ Tags
-
-| Category | Tag | Meaning |
-|---------|------|---------|
-| Setting | Local | Local Differential Privacy |
-| Setting | Federated | Federated Graph Learning |
-| Task | NodeCls | Node Classification |
-| Task | LinkPred | Link Prediction |
-| Mechanism | PM | Piecewise Mechanism |
-| Security | Robust | Attack-resilient |
-| Security | Poisoning | Poisoning-resistant |
-| Model | GNN | Graph Neural Networks |
 
 
-This repository highlights:
 
-- 📘 *Local DP (LDP)* on nodes, edges, and features  
-- 🧠 Differentially private GNN architectures  
-- 🔐 Private message passing, aggregation, and propagation  
-- 🛡 Privacy-preserving graph representation learning  
-- ⚔ Privacy attacks on DP graph systems  
-- 📊 Benchmarks and real-world datasets  
-- 🧮 Theoretical foundations  
+# 🧩 Global Setting
 
-The list is continuously updated. **Pull Requests are welcome!**
+| Title                                                                 | Venue                  | Year |
+|-----------------------------------------------------------------------|------------------------|------|
+| [Linkteller: Recovering private edges from graph neural networks](https://arxiv.org/abs/2108.06504) | SP | 2022 |
+| [Training Differentially Private Graph Neural Networks with Random Walk Sampling](https://arxiv.org/abs/2301.00738) | TSRML (NeurIPS Workshop) | 2022 |
+| [Node-level differentially private graph neural networks](https://arxiv.org/abs/2111.15521) |  PAIR2Struct (ICLR Workshop) | 2022 |
+| [Releasing graph neural networks with differential privacy guarantees](https://arxiv.org/abs/2109.08907) | TMLR | 2023 |
+| [GAP: Differentially private graph neural networks with aggregation perturbation](https://arxiv.org/abs/2203.00949) | USENIX Security | 2023 |
+| [Differentially private decoupled graph convolutions for multigranular topology protection](https://arxiv.org/abs/2307.06422) | NeurIPS | 2023 |
+| [Differentially Private Graph Neural Networks for Medical Population Graphs and The Impact of The Graph Structure](https://ieeexplore.ieee.org/abstract/document/10635840) | ISBI | 2024 |
+| [Preserving node-level privacy in graph neural networks](https://arxiv.org/abs/2311.06888) | SP | 2024 |
 
----
 
-# 📘 Surveys
 
-### 🗓️ 2021  
-- [2021] [CCS] Locally Private Graph Neural Networks [[Paper]](https://dl.acm.org/doi/10.1145/3460120.3484565)
-
-### 🗓️ 2022  
-- [2021] [CCS] Locally Private Graph Neural Networks [[Paper]](https://dl.acm.org/doi/10.1145/3460120.3484565)
-- 
-### 🗓️ 2021  
-- [2021] [CCS] Locally Private Graph Neural Networks [[Paper]](https://dl.acm.org/doi/10.1145/3460120.3484565)
-
----
-
-# 🔐 Fundamentals of Differential Privacy
-
-### Classical DP
-- Dwork & Roth, *The Algorithmic Foundations of Differential Privacy*, 2014  
-- Gaussian Mechanism  
-- Laplace Mechanism  
-- Composition Theorems  
-
-### Local Differential Privacy (LDP)
-- Piecewise Mechanism (PM)
-- Marginal-Based Mechanism (MB)
-- Subspace Walk (SW)
-- Unary Encoding / Local Hashing (LH)
 
 ---
 
 # 🧩 Local Differential Privacy for Graphs
 
-### Node-feature LDP
-- Methods applying LDP to node attributes before model training  
-
-### Structural LDP
-- Local DP for edges / adjacency perturbation  
-- LDP-based graph anonymization and topology obfuscation  
-
-### Private message passing (LDP × GNN)
-- Works that introduce noise in propagation / aggregation  
-- Private Laplacian smoothing  
-- LDP-based neighborhood sampling  
+# 📘 Surveys
 
 ---
 
-# 🧠 DP Graph Neural Networks
 
-### DP-GNN Families
-- Gradient-level DP (DP-SGD for GNNs)  
-- Model-level DP  
-- Feature-aggregation DP  
-- Structure-aware DP GNNs  
-
-### Representative Works  
-- DP-GCN  
-- DP-GraphSAGE  
-- DP-GAT  
-(请补充具体论文信息)
 
 ---
 
 # 🧬 DP for Node Classification
 
-- LDP node feature perturbation methods  
-- DP-SGD applied to node classification  
-- Private label prediction  
-- Private semi-supervised graph learning  
-
----
-
-# 🔷 DP Graph Embedding
-
-- DP random walk–based embeddings  
-- DP matrix factorization  
-- DP graph representation learning  
-- Local DP embedding release  
-- Private PPR (Personalized PageRank) embedding  
-
----
-
-# ⚔ Privacy Attacks
-
-### Inference Attacks
-- Node attribute inference  
-- Link prediction attacks  
-- Membership inference attacks on GNNs  
-
-### Poisoning Attacks
-- Fake node injection under DP  
-- Graph perturbation to cause DP degradation  
-- Local DP–aware poisoning strategies  
-
-### DP-breaking Attacks
-- Attacks exploiting noise correlation  
-- Reconstruction attacks on DP-protected graphs  
-
----
-
-# 🛡 Defense Mechanisms
-
-- Certified robustness with DP  
-- Noise optimization and adaptive mechanisms  
-- Graph sanitization  
-- Defense against inference & poisoning attacks  
-- Privacy budget allocation strategies  
 
 ---
 
