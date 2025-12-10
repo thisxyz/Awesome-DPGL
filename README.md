@@ -70,7 +70,7 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 
 | Title                                                                 | Venue                  | Year |
 |-----------------------------------------------------------------------|------------------------|------|
-| [Linkteller: Recovering private edges from graph neural networks](https://arxiv.org/abs/2108.06504) | SP | 2022 |
+| [Locally private graph neural networks](https://dl.acm.org/doi/abs/10.1145/3460120.3484565) | CCS | 2021 |
 | [Towards private learning on decentralized graphs with local differential privacy](https://ieeexplore.ieee.org/abstract/document/9855440/) | TIFS | 2022 |
 | [Gromov-wasserstein discrepancy with local differential privacy for distributed structural graphs](https://www.ijcai.org/proceedings/2022/294) | IJCAI | 2022 |
 | [Privacy-enhanced graph neural network for decentralized local graphs](https://ieeexplore.ieee.org/abstract/document/10305592/) | TIFS | 2023 |
