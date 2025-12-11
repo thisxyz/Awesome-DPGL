@@ -73,6 +73,7 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 | [Locally private graph neural networks](https://dl.acm.org/doi/abs/10.1145/3460120.3484565) | CCS | 2021 |
 | [Towards private learning on decentralized graphs with local differential privacy](https://ieeexplore.ieee.org/abstract/document/9855440/) | TIFS | 2022 |
 | [Gromov-wasserstein discrepancy with local differential privacy for distributed structural graphs](https://www.ijcai.org/proceedings/2022/294) | IJCAI | 2022 |
+| [Heterogeneous Randomized Response for Differential Privacy in Graph Neural Networks](https://arxiv.org/abs/2211.05766) | BigData | 2022 |
 | [Privacy-enhanced graph neural network for decentralized local graphs](https://ieeexplore.ieee.org/abstract/document/10305592/) | TIFS | 2023 |
 | [Blink: link local differential privacy in graph neural networks via Bayesian estimation](https://dl.acm.org/doi/abs/10.1145/3576915.3623165) | CCS | 2023 |
 | [Individual fairness for local private graph neural network](https://www.sciencedirect.com/science/article/pii/S095070512300240X) | KBS | 2023 |
