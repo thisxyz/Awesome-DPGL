@@ -1,6 +1,7 @@
-
+<div align="center">
+  
 # 🌟 Awesome-DPGL  
-### **A Curated List of Differential Privacy in Graph Learning (DPGL)**
+### **A Curated List of Differentially Private Graph Learning (DPGL)**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Stars](https://img.shields.io/github/stars/YOUR_NAME/Awesome-DPGL?style=flat&color=yellow)
@@ -9,12 +10,9 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
+Graph Neural Networks (GNNs) have revolutionized various fields, unlocking unprecedented potential in graph learning tasks, particularly in real-world applications. However, the inherent sensitivity of graph data, such as user profiles, social relationships, and behavioral patterns, poses significant privacy risks. To address these concerns, Differential Privacy (DP), a privacy-preserving technique with strong theoretical guarantees, has emerged as a key solution, gradually becoming the cornerstone of privacy protection in graph learning. This survey presents a comprehensive review of \textit{Differentially Private Graph Learning (DPGL)}, systematically categorizing existing methods, identifying the challenges, and proposing future research directions. To our knowledge, this is the first comprehensive survey of DPGL. By emphasizing the role of DP as a privacy-preserving paradigm in graph learning, we aim to advance the field of DPGL and its applications in privacy-sensitive domains. 
 
-
-
-**Differential Privacy × Graph Machine Learning**
-
-An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, and resources in **Differential Privacy Graph Learning (DPGL)** — covering Local DP, Global DP, private GNNs, structure perturbation, node feature privacy, private graph embeddings, attacks & defenses, and theoretical foundations.
+An up-to-date, high-quality collection of papers and resources in **Differential Privacy Graph Learning (DPGL)**
 
 </div>
 
@@ -24,7 +22,7 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 <img width="1782" height="1032" alt="image" src="https://github.com/user-attachments/assets/0822023c-1d0e-4f9c-9ec4-0870db3061bb" />
 
 
-# 🧩 Global Setting
+## 🧩 Node-level DP
 
 ID | Title                                                                 | Venue                  | Year |
 -|-----------------------------------------------------------------------|------------------------|------|
