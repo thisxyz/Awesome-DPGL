@@ -1,4 +1,3 @@
-<div align="center">
 
 # 🌟 Awesome-DPGL  
 ### **A Curated List of Differential Privacy in Graph Learning (DPGL)**
@@ -22,6 +21,7 @@ An up-to-date, high-quality collection of papers, surveys, benchmarks, tools, an
 ---
 
 
+<img width="1782" height="1032" alt="image" src="https://github.com/user-attachments/assets/0822023c-1d0e-4f9c-9ec4-0870db3061bb" />
 
 
 # 🧩 Global Setting
