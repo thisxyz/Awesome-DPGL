@@ -8,19 +8,18 @@
 ![Last Commit](https://img.shields.io/github/last-commit/YOUR_NAME/Awesome-DPGL)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
----
-Graph Neural Networks (GNNs) have revolutionized various fields, unlocking unprecedented potential in graph learning tasks, particularly in real-world applications. However, the inherent sensitivity of graph data, such as user profiles, social relationships, and behavioral patterns, poses significant privacy risks. To address these concerns, Differential Privacy (DP), a privacy-preserving technique with strong theoretical guarantees, has emerged as a key solution, gradually becoming the cornerstone of privacy protection in graph learning. This survey presents a comprehensive review of \textit{Differentially Private Graph Learning (DPGL)}, systematically categorizing existing methods, identifying the challenges, and proposing future research directions. To our knowledge, this is the first comprehensive survey of DPGL. By emphasizing the role of DP as a privacy-preserving paradigm in graph learning, we aim to advance the field of DPGL and its applications in privacy-sensitive domains. 
-
-An up-to-date, high-quality collection of papers and resources in **Differential Privacy Graph Learning (DPGL)**
-
 </div>
 
 ---
 
+**Abstract:** Graph learning has been widely applied across diverse domains, including social networks, recommendation systems, and bioinformatics. However, real-world graph data often contains highly sensitive information, raising serious privacy concerns. Differential Privacy (DP) has emerged as a rigorous mathematical framework to protect sensitive information in graph learning while providing formal privacy guarantees. This survey presents the first comprehensive and systematic review of Differentially Private Graph Learning (DPGL). We organize existing DPGL methods according to privacy granularity, learning paradigms, and perturbation mechanisms, analyze their respective strengths and limitations, and identify key technical challenges in the field. Furthermore, we identify future research directions critical for advancing DPGL toward practical deployment in real-world applications. This survey paper aims to provide a unified reference for researchers and practitioners while inspiring future innovations in privacy-preserving graph learning.
 
-<img width="1782" height="1032" alt="image" src="https://github.com/user-attachments/assets/0822023c-1d0e-4f9c-9ec4-0870db3061bb" />
+---
 
+<img width="2062" height="1200" alt="image" src="https://github.com/user-attachments/assets/9b6a36de-4c73-4ddf-9c7e-55b8c6947536" />
+
+
+<img width="1698" height="1528" alt="image" src="https://github.com/user-attachments/assets/d675644e-054d-47a9-95dc-f4196aa9667e" />
 
 ## 🧩 Node-level DP
 
@@ -87,19 +86,6 @@ ID | Title                                                                 | Ven
 | [Leveraging Homophily Under Local Differential Privacy for Effective Graph Neural Networks](https://link.springer.com/chapter/10.1007/978-3-032-06096-9_22) | ECML-PKDD | 2025 |
 | [Going Deeper into Locally Differentially Private Graph Neural Networks](https://openreview.net/forum?id=2aKHuXdr7Q) | ICML | 2025 |
 | [Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols](https://arxiv.org/abs/2506.09803) | KDD | 2026 |
-
-
-
-
-# 📘 Surveys
-
----
-
-
-
----
-
-# 🧬 DP for Node Classification
 
 
 ---
